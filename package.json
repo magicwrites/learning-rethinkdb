@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "database": "bash ./database/run-on-windows.bat",
+    "database": "cd ./database && bash run-on-windows.bat",
     "start": "concurrently \"npm run database\""
   },
   "author": "Maciej Mazur",

@@ -1,1 +1,1 @@
-database/rethinkdb --http-port 8000
+./rethinkdb --http-port 8000
