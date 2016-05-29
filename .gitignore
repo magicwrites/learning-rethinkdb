@@ -1,0 +1,4 @@
+database/rethinkdb_data
+database/rethinkdb.exe
+node_modules
+npm-debug.log

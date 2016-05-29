@@ -1,0 +1,80 @@
+2385-05-29T11:43:56.172341300 0.010529s notice: In recursion: removing file 'C:\\Users\\mmazur\\Documents\\git\\learning-rethinkdb\\rethinkdb_data\\tmp'
+2385-05-29T11:43:56.173356600 0.011238s warn: Trying to delete non-existent file 'C:\\Users\\mmazur\\Documents\\git\\learning-rethinkdb\\rethinkdb_data\\tmp'
+2385-05-29T11:43:56.173356601 0.011914s notice: Initializing directory C:\\Users\\mmazur\\Documents\\git\\learning-rethinkdb\\rethinkdb_data
+2385-05-29T11:43:56.174343100 0.012532s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory 'C:\\Users\\mmazur\\Documents\\git\\learning-rethinkdb\\rethinkdb_data' did not already exist or is empty.)
+2385-05-29T11:43:56.174343101 0.012604s notice: Running rethinkdb 2.3.2-windows-beta (MSC 190023506)...
+2385-05-29T11:43:56.174343102 0.012625s notice: Running on 6.2.9200 (Windows 8, Server 2012)
+2385-05-29T11:43:56.174343103 0.012637s notice: Loading data from directory C:\\Users\\mmazur\\Documents\\git\\learning-rethinkdb\\rethinkdb_data
+2385-05-29T11:43:56.308437500 0.146767s info: Automatically using cache size of 737 MB
+2385-05-29T11:43:56.310440900 0.148926s notice: Listening for intracluster connections on port 29015
+2385-05-29T11:43:56.311440800 0.150011s notice: Listening for client driver connections on port 28015
+2385-05-29T11:43:56.312453700 0.150106s warn: bind failed: Zosta?a podj?ta pr?ba uzyskania dost?pu do gniazda w spos?b zabroniony przez?\nprzypisane do niego uprawnienia dost?pu.
+2385-05-29T11:43:56.317444200 0.155162s error: Could not bind to http port: The address at localhost:8080 is reserved or already in use.
+2385-05-29T11:45:00.915186100 0.010886s notice: Running rethinkdb 2.3.2-windows-beta (MSC 190023506)...
+2385-05-29T11:45:00.915186101 0.011057s notice: Running on 6.2.9200 (Windows 8, Server 2012)
+2385-05-29T11:45:00.916189100 0.011088s notice: Loading data from directory C:\\Users\\mmazur\\Documents\\git\\learning-rethinkdb\\rethinkdb_data
+2385-05-29T11:45:00.921178100 0.017055s info: Automatically using cache size of 842 MB
+2385-05-29T11:45:00.923179500 0.018991s notice: Listening for intracluster connections on port 29015
+2385-05-29T11:45:00.924179800 0.019876s notice: Listening for client driver connections on port 28015
+2385-05-29T11:45:00.924179801 0.019998s notice: Listening for administrative HTTP connections on port 8000
+2385-05-29T11:45:00.924179802 0.020001s notice: Listening on cluster address: 127.0.0.1
+2385-05-29T11:45:00.924179803 0.020003s notice: Listening on driver address: 127.0.0.1
+2385-05-29T11:45:00.924179804 0.020004s notice: Listening on http address: 127.0.0.1
+2385-05-29T11:45:00.924179805 0.020005s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2385-05-29T11:45:00.924179806 0.020006s notice: Server ready, "DESKTOP_J7SNQS2_m5e" ae4caaa3-0e5b-41e8-a83e-14c8775ddde8
+2385-05-29T11:47:55.334732200 0.011768s notice: Running rethinkdb 2.3.2-windows-beta (MSC 190023506)...
+2385-05-29T11:47:55.335732500 0.011959s notice: Running on 6.2.9200 (Windows 8, Server 2012)
+2385-05-29T11:47:55.335732501 0.011983s notice: Loading data from directory C:\\Users\\mmazur\\Documents\\git\\learning-rethinkdb\\rethinkdb_data
+2385-05-29T11:47:55.354747900 0.031794s info: Automatically using cache size of 818 MB
+2385-05-29T11:47:55.356748100 0.033897s notice: Listening for intracluster connections on port 29015
+2385-05-29T11:47:55.357748800 0.034826s notice: Listening for client driver connections on port 28015
+2385-05-29T11:47:55.358749200 0.034974s notice: Listening for administrative HTTP connections on port 8000
+2385-05-29T11:47:55.358749201 0.034977s notice: Listening on cluster address: 127.0.0.1
+2385-05-29T11:47:55.358749202 0.034978s notice: Listening on driver address: 127.0.0.1
+2385-05-29T11:47:55.358749203 0.034979s notice: Listening on http address: 127.0.0.1
+2385-05-29T11:47:55.358749204 0.034980s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2385-05-29T11:47:55.358749205 0.034981s notice: Server ready, "DESKTOP_J7SNQS2_m5e" ae4caaa3-0e5b-41e8-a83e-14c8775ddde8
+2385-05-29T11:48:32.139901000 0.009921s notice: Running rethinkdb 2.3.2-windows-beta (MSC 190023506)...
+2385-05-29T11:48:32.139901001 0.010050s notice: Running on 6.2.9200 (Windows 8, Server 2012)
+2385-05-29T11:48:32.139901002 0.010068s notice: Loading data from directory C:\\Users\\mmazur\\Documents\\git\\learning-rethinkdb\\rethinkdb_data
+2385-05-29T11:48:32.155897400 0.026085s info: Automatically using cache size of 806 MB
+2385-05-29T11:48:32.157899600 0.027947s notice: Listening for intracluster connections on port 29015
+2385-05-29T11:48:32.158899900 0.028824s notice: Listening for client driver connections on port 28015
+2385-05-29T11:48:32.158899901 0.028941s notice: Listening for administrative HTTP connections on port 8000
+2385-05-29T11:48:32.158899902 0.028945s notice: Listening on cluster address: 127.0.0.1
+2385-05-29T11:48:32.158899903 0.028945s notice: Listening on driver address: 127.0.0.1
+2385-05-29T11:48:32.158899904 0.028947s notice: Listening on http address: 127.0.0.1
+2385-05-29T11:48:32.158899905 0.028948s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2385-05-29T11:48:32.158899906 0.028949s notice: Server ready, "DESKTOP_J7SNQS2_m5e" ae4caaa3-0e5b-41e8-a83e-14c8775ddde8
+2385-05-29T11:48:50.508269000 0.009974s notice: Running rethinkdb 2.3.2-windows-beta (MSC 190023506)...
+2385-05-29T11:48:50.508269001 0.010110s notice: Running on 6.2.9200 (Windows 8, Server 2012)
+2385-05-29T11:48:50.508269002 0.010127s notice: Loading data from directory C:\\Users\\mmazur\\Documents\\git\\learning-rethinkdb\\rethinkdb_data
+2385-05-29T11:48:50.544290500 0.045390s info: Automatically using cache size of 798 MB
+2385-05-29T11:48:50.545291200 0.047223s notice: Listening for intracluster connections on port 29015
+2385-05-29T11:48:50.546291900 0.048113s notice: Listening for client driver connections on port 28015
+2385-05-29T11:48:50.546291901 0.048187s warn: bind failed: Zosta?a podj?ta pr?ba uzyskania dost?pu do gniazda w spos?b zabroniony przez?\nprzypisane do niego uprawnienia dost?pu.
+2385-05-29T11:48:50.549294400 0.051343s error: Could not bind to http port: The address at localhost:8080 is reserved or already in use.
+2385-05-29T11:49:13.673129500 0.008955s notice: Running rethinkdb 2.3.2-windows-beta (MSC 190023506)...
+2385-05-29T11:49:13.673129501 0.009092s notice: Running on 6.2.9200 (Windows 8, Server 2012)
+2385-05-29T11:49:13.673129502 0.009109s notice: Loading data from directory C:\\Users\\mmazur\\Documents\\git\\learning-rethinkdb\\rethinkdb_data
+2385-05-29T11:49:13.681145800 0.017681s info: Automatically using cache size of 796 MB
+2385-05-29T11:49:13.683134200 0.019383s notice: Listening for intracluster connections on port 29015
+2385-05-29T11:49:13.684148700 0.020310s notice: Listening for client driver connections on port 28015
+2385-05-29T11:49:13.684148701 0.020423s notice: Listening for administrative HTTP connections on port 8000
+2385-05-29T11:49:13.684148702 0.020426s notice: Listening on cluster address: 127.0.0.1
+2385-05-29T11:49:13.684148703 0.020427s notice: Listening on driver address: 127.0.0.1
+2385-05-29T11:49:13.684148704 0.020428s notice: Listening on http address: 127.0.0.1
+2385-05-29T11:49:13.684148705 0.020428s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2385-05-29T11:49:13.684148706 0.020430s notice: Server ready, "DESKTOP_J7SNQS2_m5e" ae4caaa3-0e5b-41e8-a83e-14c8775ddde8
+2385-05-29T11:49:19.458506000 0.009137s notice: Running rethinkdb 2.3.2-windows-beta (MSC 190023506)...
+2385-05-29T11:49:19.458506001 0.009271s notice: Running on 6.2.9200 (Windows 8, Server 2012)
+2385-05-29T11:49:19.458506002 0.009289s notice: Loading data from directory C:\\Users\\mmazur\\Documents\\git\\learning-rethinkdb\\rethinkdb_data
+2385-05-29T11:49:19.465501100 0.016300s info: Automatically using cache size of 778 MB
+2385-05-29T11:49:19.467502100 0.018211s notice: Listening for intracluster connections on port 29015
+2385-05-29T11:49:19.468502400 0.019290s notice: Listening for client driver connections on port 28015
+2385-05-29T11:49:19.468502401 0.019467s notice: Listening for administrative HTTP connections on port 8000
+2385-05-29T11:49:19.468502402 0.019472s notice: Listening on cluster address: 127.0.0.1
+2385-05-29T11:49:19.468502403 0.019472s notice: Listening on driver address: 127.0.0.1
+2385-05-29T11:49:19.468502404 0.019475s notice: Listening on http address: 127.0.0.1
+2385-05-29T11:49:19.468502405 0.019476s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2385-05-29T11:49:19.468502406 0.019478s notice: Server ready, "DESKTOP_J7SNQS2_m5e" ae4caaa3-0e5b-41e8-a83e-14c8775ddde8
